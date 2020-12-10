@@ -1,2 +1,2 @@
 # hello-world
-Hey look it's a repository
+Hey, look! It's a repository!
